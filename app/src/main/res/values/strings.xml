@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">Lab0</string>
     <string name="massage_button">Закрыть</string>
     <string name="insert_text">Введите текст</string>
     <string name="set_button">выбрать</string>
-    <string name="set_text">новое представление</string>
+    <string name="set_text">"Хочу автомат "</string>
     <string name="button_view_text">Представление с текстом</string>
     <string name="button_buttons">Кнопки</string>
     <string name="button_textField">Ввод текста</string>
